@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Chaten 👋
 
-<!--
-**chaten-cqst/chaten-cqst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MERN Stack Developer** · CodeQuotient
 
-Here are some ideas to get you started:
+I’m learning to build modern, full-stack web applications using MongoDB, Express.js, React, and Node.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- **Frontend:** React, JavaScript, HTML, CSS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Tools:** Git, GitHub, REST APIs
+
+## 🌱 Currently
+
+- Building MERN stack projects
+- Improving JavaScript and React skills
+- Learning full-stack application development
+
+## 🤝 Let’s Connect
+
+- GitHub: [@chaten-cqst](https://github.com/chaten-cqst)
+
+---
+
+✨ _Always learning, building, and improving._
