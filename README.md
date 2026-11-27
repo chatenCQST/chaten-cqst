@@ -1,6 +1,6 @@
 # Hi, I'm Chaten 👋
 
-**MERN Stack Developer** · CodeQuotient
+**MERN Stack Developer**
 
 I’m learning to build modern, full-stack web applications using MongoDB, Express.js, React, and Node.js.
 
@@ -16,11 +16,5 @@ I’m learning to build modern, full-stack web applications using MongoDB, Expre
 - Building MERN stack projects
 - Improving JavaScript and React skills
 - Learning full-stack application development
-
-## 🤝 Let’s Connect
-
-- GitHub: [@chaten-cqst](https://github.com/chaten-cqst)
-
----
 
 ✨ _Always learning, building, and improving._
